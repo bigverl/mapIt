@@ -1,0 +1,1 @@
+@py.exe D:\Users\Verly\Desktop\CS\Python_Scripts\mapit.py %*
